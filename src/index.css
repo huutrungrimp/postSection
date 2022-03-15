@@ -1,0 +1,30 @@
+form.form{
+  width: 50%;
+  background-color:aquamarine;
+  margin: auto;
+}
+
+.messageClass{
+  width: 25%!important;
+  background-color:aquamarine;
+  margin: auto;
+}
+
+
+.leaflet-container {
+  width: 50wh; 
+  height: 50vh;
+  /* background-color: green!important; */
+}
+
+.formClass{
+  background-color:rgb(239, 242, 248)!important;
+  width: 20%!important;
+  margin: 0 auto;
+}
+
+body{
+  background-color:rgb(196, 208, 235)!important;
+}
+
+
